@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-2.0-or-later
+// SPDX-License-Identifier: GPL-2.0
 pragma solidity =0.8.26;
 import './interfaces/IOffChainCalculationHelper.sol';
 import './interfaces/IUbeswapV3Farming.sol';

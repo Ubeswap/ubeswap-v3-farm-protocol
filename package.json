@@ -1,7 +1,7 @@
 {
   "name": "@ubeswap/ubeswap-v3-farm-protocol",
   "description": "Off-chain assisted Ubeswap V3 Farming Protocol",
-  "license": "GPL-3.0-or-later",
+  "license": "GPL-3.0",
   "version": "0.1.0",
   "homepage": "https://ubeswap.org",
   "keywords": [
